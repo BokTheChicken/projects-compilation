@@ -1,4 +1,4 @@
-# projects-compilation
+# Projects Compilation
 
 Here are my college projects + "small projects when im bored".
 
