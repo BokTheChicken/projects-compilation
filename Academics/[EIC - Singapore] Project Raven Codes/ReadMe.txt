@@ -1,3 +1,23 @@
+This project is created to detect different types of background radiation
+The project is also used to compete during Singapore EIC - 2019 and able to receive merits.
+
+
+Further details about the project and event : https://www.pressreader.com/philippines/philippine-daily-inquirer-1109/20190826/282157882908504
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+NOTES:
+
 Mothercode ---> dapat kaya nya lahat ng required: receive from sensor,
 		display on lcd tsaka plot sa webserver.
 ---------------------------------------------------------------------------------------------------------
