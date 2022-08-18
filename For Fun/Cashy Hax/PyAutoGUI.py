@@ -2,7 +2,7 @@
 """
 Created on Thu Jun 27 00:45:25 2019
 
-@author: Kellard
+@author: Kellard and Kerwin
 """
 import pyautogui
 import time
