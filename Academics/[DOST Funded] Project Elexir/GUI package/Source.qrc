@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="images">
+    <file>PCAARD.png</file>
+  </qresource>
+</RCC>
